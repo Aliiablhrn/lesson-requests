@@ -2,10 +2,6 @@
   "todos": [
     {
       "todo": "hjjhj",
-      "id": 1
-    },
-    {
-      "todo": "hjjhj",
       "id": 2
     },
     {
@@ -19,6 +15,10 @@
     {
       "todo": "xsx",
       "id": 5
+    },
+    {
+      "todo": "skcnks",
+      "id": 6
     }
   ]
 }
